@@ -1,0 +1,4 @@
+[submodule "quasi-optics-library"]
+    path = quasi-optics-library
+    url = ../quasi-optics-library.git
+    
